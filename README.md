@@ -11,6 +11,7 @@ I am a **Mathematics** graduate with a Master's degree, currently working on **d
 - 📚 I'm currently learning ...
   - LLM Inference Optimization
   - CUDA Programming
+  - Algorithm
 - 🚀 I'm eager to contribute to groundbreaking AI infrastructure projects.
 - ✔ Feel free to ask me anything! I'm passionate about sharing knowledge in deep learning and HPC.
 Outside tech, I enjoy 🥾 hiking in nature, 🎸 listening to rock music, 🏕️ camping under the stars, and I also love playing 🃏 Texas Hold'em poker with friends.
