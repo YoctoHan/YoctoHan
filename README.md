@@ -4,7 +4,7 @@
 
 <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35>&nbsp;***About me***
 
-<img align="right" width=200px alt="Unicorn" src="https://i.pinimg.com/736x/96/16/c6/9616c6e3c899fa98982290e518990ec4.jpg"/>
+<img align="right" width=250px alt="Unicorn" src="https://i.pinimg.com/736x/96/16/c6/9616c6e3c899fa98982290e518990ec4.jpg"/>
 
 I am a **Mathematics** graduate with a Master's degree, currently working on **deep learning infrastructure** development. I am expanding my expertise in deep learning, large language models, training/inference frameworks, and high-performance computing. I have experience in building foundational systems for AI/ML applications, and my goal is to deepen my technical skills in performance and system optimization. I love to explore innovative solutions and tackle challenging technical problems.
 
