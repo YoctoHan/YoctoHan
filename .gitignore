@@ -1,0 +1,12 @@
+# IDE / editor
+.idea/
+.vscode/
+*.iml
+
+# OS
+.DS_Store
+
+# local dev helpers
+.claude/launch.json
+.claude/settings.local.json
+.preview/
